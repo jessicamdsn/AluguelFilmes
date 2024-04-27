@@ -1,0 +1,14 @@
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\bin\Debug\net8.0\AluguelFilmes.exe
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\bin\Debug\net8.0\AluguelFilmes.deps.json
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\bin\Debug\net8.0\AluguelFilmes.runtimeconfig.json
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\bin\Debug\net8.0\AluguelFilmes.dll
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\bin\Debug\net8.0\AluguelFilmes.pdb
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.dll
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\refint\AluguelFilmes.dll
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.pdb
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\ref\AluguelFilmes.dll
