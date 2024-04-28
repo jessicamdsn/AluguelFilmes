@@ -12,3 +12,4 @@ C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\D
 C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.pdb
 C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.genruntimeconfig.cache
 C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\ref\AluguelFilmes.dll
+C:\Users\jessi\OneDrive\Documentos\projetos\C#\AluguelFilmes\AluguelFilmes\obj\Debug\net8.0\AluguelFilmes.sourcelink.json
