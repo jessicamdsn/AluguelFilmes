@@ -4,7 +4,7 @@ Este é um projeto em C# para um sistema de aluguel de filmes simples.
 
 ## Descrição
 
-O sistema permite que os usuários consultem filmes disponíveis, aluguem filmes e finalizem o aluguel. Ele foi desenvolvido para demonstrar conceitos básicos de POO e programação em C# e interação com o console.
+O sistema permite que os usuários consultem filmes disponíveis, aluguem filmes e finalizem o aluguel. Ele foi desenvolvido para demonstrar conceitos básicos de POO, lógica e programação em C# e interação com o console.
 
 ## Funcionalidades
 
